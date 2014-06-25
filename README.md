@@ -1,10 +1,11 @@
 # wiebetaaltwat
 
-A Clojure library designed to ... well, that part is up to you.
+A clojure program that calculates a balance of a group of people who spend money and want to calculate a balance for each participant.
+Functional clone of 'wiebetaaltwat.nl', built for fun, and as a way to learn Clojure.
 
 ## Usage
 
-FIXME
+
 
 ## License
 
