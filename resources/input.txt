@@ -1,0 +1,14 @@
+marten thijs lutzen piter simon jacob johan kasper geert joris bernd
+; <naam>, <bedrag>, <omschrijving>, <deelnemer1 deelnemer2 deelnemer3...>
+; gebruik 'iedereen' als het voor iedereen is
+; -----------------------------------------------------------------------
+lutzen, 72.00, eten taverne vrijdag, marten lutzen bernd
+bernd, 10.00, teveel betaald want goedkoop gerecht, lutzen
+joris, 83.00, buf, iedereen
+geert, 58.05, terras zaterdag, thijs lutzen piter simon jacob johan kasper geert joris bernd
+marten, 65.87, boodschappen zaterdag, iedereen
+thijs, 137.85, eten bij eerste restaurant zaterdag, iedereen
+simon, 400.00, eten zaterdag restaurant, iedereen
+marten, 71.00, bedlinnen, iedereen
+jacob, 95.00, vlaai eten op zondag, marten thijs lutzen simon jacob johan kasper geert joris bernd
+

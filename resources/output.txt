@@ -1,0 +1,24 @@
+marten:  € 34.49
+jacob:	 € 10.81
+joris: 	 € -1.19
+piter: 	 € -74.69
+johan: 	 € -84.19
+lutzen:	 € -46.19
+bernd: 	 € -98.19
+simon: 	 € 315.81
+kasper:	 € -84.19
+geert: 	 € -26.14
+thijs: 	 € 53.66
+
+joris betaalt 1.19 aan marten
+piter betaalt 33.30 aan marten
+piter betaalt 10.81 aan jacob
+piter betaalt 30.58 aan simon
+johan betaalt 84.19 aan simon
+lutzen betaalt 46.19 aan simon
+bernd betaalt 98.19 aan simon
+kasper betaalt 56.67 aan simon
+kasper betaalt 27.52 aan thijs
+geert betaalt 26.14 aan thijs
+
+
