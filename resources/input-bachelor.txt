@@ -1,0 +1,8 @@
+marten piter johan lutzen joris kasper gysbert geert simon jacob bernd
+;
+marten, 234.35,  bbq, marten piter johan lutzen joris kasper gysbert geert jacob bernd
+marten, 280.83, boodschappen, marten piter johan lutzen joris kasper gysbert jacob bernd
+johan, 92.00, lunch, johan jacob joris bernd
+johan, 12.00, koffie, marten piter johan lutzen joris kasper gysbert jacob bernd
+lutzen, 50.00, lunch, marten piter lutzen gysbert
+bernd, 110.45, ribs, marten bernd lutzen jacob joris kasper
